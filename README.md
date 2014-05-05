@@ -1,4 +1,4 @@
-Android Learning Pavilion
+IFL - Android Learning Pavilion
 ==========
 
 ####Abstract
