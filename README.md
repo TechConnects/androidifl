@@ -33,7 +33,7 @@ Resources
 
 [Using Android SDK Emulator] (http://developer.android.com/tools/devices/emulator.html)
 
-####Using Github
+####Using GitHub
 
 [GitHub Bootcamp] (https://help.github.com/categories/54/articles)
  
