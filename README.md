@@ -5,7 +5,7 @@ Android Learning Pavilion
 
 Learn about open-source development tools for the classroom applicable to a variety of skill levels and discover video curriculum available through the Library. In this pavilion, you will get hands-on experience using a development environment to begin working on your very own app.   
 
-####Agenda
+####Agenda (75 min)
 
 [Computational Thinking] (http://www.iste.org/docs/ct-documents/ct-teacher-resources_2ed-pdf.pdf?sfvrsn=2) from Computer Science Teachers Association (CSTA) 
 
@@ -13,7 +13,7 @@ Why Develop in the classroom?
 
 Creating Assessment Models
 
-App Development Workflows
+[App Development Workflows] (http://developer.android.com/tools/workflow/index.html)
 
 Source Control
 
@@ -25,7 +25,7 @@ Pathways: MIT Android App Inventor
 
 Foundations: Eclipse IDE and Android SDK
 
-Questions and Discussion
+Questions and Discussion - (10 min)
 
 Building Apps
 =====
