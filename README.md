@@ -37,6 +37,10 @@ Building Apps
 Resources
 =========
 
+####Library Resources
+
+[Free Treehouse Account] (http://www.lfpl.org/treehouse/) (with valid library card and password)
+
 ####MIT App Inventor
 
 [MIT Android App Inventor] (http://appinventor.mit.edu/explore/) | [Cool projects from Hour of Code] (http://appinventor.mit.edu/explore/hour-of-code.html)
