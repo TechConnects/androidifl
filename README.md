@@ -5,3 +5,31 @@ Android Learning Pavilion
 
 Learn about open-source development tools for the classroom applicable to a variety of skill levels and discover video curriculum available through the Library. In this pavilion, you will get hands-on experience using a development environment to begin working on your very own app.   
 
+####Agenda
+
+[Computational Thinking] (http://www.iste.org/docs/ct-documents/ct-teacher-resources_2ed-pdf.pdf?sfvrsn=2) from Computer Science Teachers Association (CSTA) 
+
+Resources
+=========
+
+####MIT App Inventor
+
+[MIT Android App Inventor] (http://appinventor.mit.edu/explore/) | [Cool projects from Hour of Code] (http://appinventor.mit.edu/explore/hour-of-code.html)
+
+[Installing Android Emulator for MIT App Inventor] (http://appinventor.mit.edu/explore/ai2/setup-emulator.html)
+
+####Android Developers SDK
+
+[Android SDK] (http://developer.android.com/sdk/index.html?hl=sk)
+
+[Android Developers Training] (http://developer.android.com/training/index.html)
+
+[Using Android SDK Emulator] (http://developer.android.com/tools/devices/emulator.html)
+
+####Using Github
+
+[GitHub Bootcamp] (https://help.github.com/categories/54/articles)
+ 
+[GitHub for Schools] (https://education.github.com/)
+
+
