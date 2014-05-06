@@ -16,8 +16,8 @@ Learn about open-source development tools for the classroom applicable to a vari
 | Source Control | |
 | [**Integrated Development Environment**] (http://en.wikipedia.org/wiki/Integrated_development_environment) (IDE) | |
 | Android Emulation | |
-| Pathways: MIT Android App Inventor | |
-| Foundations: Eclipse IDE and Android SDK | |
+| 1. [**Pathways: MIT Android App Inventor**] (https://github.com/TechConnects/androidifl/tree/master/mit-app) | |
+| 2. [**Foundations: Eclipse IDE and Android SDK**] (https://github.com/TechConnects/androidifl/tree/master/sdk-app) | |
 | Questions and Discussion | 10 min |
 
 Building Apps
