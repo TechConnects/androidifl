@@ -7,3 +7,9 @@ some instructions here
 | **Critical Problem Solving**| Students learn how to use multiple tools to solve problems|
 | **Critical Management**| Learning when and how to address problems and create automated ways of doing it|
 | **Collaboration**| Developers work in teams to conquer large problems sharing work where applicable|
+
+####Getting SetUp
+
+| **No.**| **To Do** |
+|:-------------:|:----------|
+| **1**| [Install and run an Android Emulator] (http://appinventor.mit.edu/explore/ai2/setup-emulator.html) Note: It can take several minutes for the emulator to launch and run.  Launch at the beginning of class to save time |
