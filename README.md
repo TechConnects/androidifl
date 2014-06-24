@@ -9,7 +9,7 @@ Learn about open-source development tools for the classroom applicable to a vari
 
 |**Agenda Item**| Time 75 min |
 |:---------------|:-----------------:|
-| [**Computational Thinking**] (http://www.iste.org/docs/ct-documents/ct-teacher-resources_2ed-pdf.pdf?sfvrsn=2) from CSTA/ISTE | 10 - 15 min |
+| [**Computational Thinking**] (http://www.iste.org/docs/ct-documents/ct-teacher-resources_2ed-pdf.pdf?sfvrsn=2) from Computer Science Teachers Association (CSTA) | 10 - 15 min |
 | Why Develop in the classroom?  While we're at it, why Android? | 5 - 10 min |
 |Creating Assessment Models | 5 - 10 min |
 | [**App Development Workflows**] (http://developer.android.com/tools/workflow/index.html) |  |
