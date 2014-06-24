@@ -13,7 +13,7 @@ Learn about open-source development tools for the classroom applicable to a vari
 | Why Develop in the classroom?  While we're at it, why Android? | 5 - 10 min |
 |Creating Assessment Models | 5 - 10 min |
 | [**App Development Workflows**] (http://developer.android.com/tools/workflow/index.html) |  |
-| Source Control | |
+| Source Control and using GitHub for curriculum | 10 min |
 | [**Integrated Development Environment**] (http://en.wikipedia.org/wiki/Integrated_development_environment) (IDE) | |
 | Android Emulation | |
 | 1. Pathways: MIT Android App Inventor | |
