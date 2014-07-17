@@ -15,3 +15,13 @@ Working within an IDE will will allow students to build skills in Java programmi
 |Starting a project | Use the Android SDK to create a new simple app project. |
 |Add user input | Add a customized button with text, and set it to perform a simple function. |  
 | Testing | Test your new app with an Android emulator to see your product in action | 
+
+####Taking Your Project to the Next Level
+
+Implementing the project in your classroom will allow students to flex their creative muscles and start learning Java.  Are you not a fulltime Java developer with years of experience?  Don't worry, try having your students follow along with the [Treehouse project] (http://teamtreehouse.com/library/build-a-simple-android-app) to create a simple app.  
+
+For more information on Java, see there Java Basics for Android Parts [1] (http://blog.teamtreehouse.com/java-basics-for-android-development-part-1) and [2] (http://blog.teamtreehouse.com/java-basics-for-android-development-part-2).
+
+####Goals and Assessment
+
+Be sure to set realistic goals for your students.  Programming is difficult, but much can be accomplished with a little work.  
