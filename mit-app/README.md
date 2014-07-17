@@ -13,7 +13,7 @@ some instructions here
 | **No.**| **To Do** |
 |:-------------:|:----------|
 |**2**| Create a Google account for students | 
-|**2**| Log into the 
+|**2**| Log into the browser-based editor | 
 |**1**| [Install and run an Android Emulator] (http://appinventor.mit.edu/explore/ai2/setup-emulator.html) Note: It can take several minutes for the emulator to launch and run.  Launch at the beginning of class to save time |
 
 ####Taking Your Project to the Next Level in the Classroom
