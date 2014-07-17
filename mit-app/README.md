@@ -13,3 +13,8 @@ some instructions here
 | **No.**| **To Do** |
 |:-------------:|:----------|
 | **1**| [Install and run an Android Emulator] (http://appinventor.mit.edu/explore/ai2/setup-emulator.html) Note: It can take several minutes for the emulator to launch and run.  Launch at the beginning of class to save time |
+
+####Taking Your Project to the Next Level in the Classroom
+
+Take a project from the [Hour of Code playbook] (http://appinventor.mit.edu/explore/hour-of-code.html) and have students follow along.  You can also have students create their own solutions based on a problem that you assign them to test their literacy.  
+
