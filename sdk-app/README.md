@@ -26,4 +26,4 @@ For more information on Java, see there Java Basics for Android Parts [1] (http:
 
 Be sure to set realistic goals for your students.  Programming is difficult, but much can be accomplished with a little work.  
 
-Debugging code is a very real skill that professional developers have that includes close attention to detail and an understanding of syntax.  Create a simple example that has students identify a problem with the function of an app, and debug the code to create a soltuion.  
+Debugging code is a very real skill that professional developers have that includes close attention to detail and an understanding of syntax.  Create a simple example that has students identify a problem with the function of an app, and debug the code to create a solution.    
