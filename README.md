@@ -5,6 +5,9 @@ Android Learning Pavilion
 
 Learn about open-source development tools for the classroom applicable to a variety of skill levels and discover video curriculum available through the Library. In this pavilion, you will get hands-on experience using a development environment to begin working on your very own app.   
 
+[**IFL Slideshow Presentation**] (https://docs.google.com/presentation/d/1e7tkH5rc7pPYZv2MKWY-_n7vPQvybkT86V-dsAu6lS8/edit?usp=sharing)
+
+
 ####Agenda 
 
 |**Agenda Item**| Time 75 min |
