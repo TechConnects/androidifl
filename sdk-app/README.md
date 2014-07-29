@@ -3,7 +3,7 @@ Android Programming Foundations
 
 ####Introduction 
 
-Moving beyond the Scracth-like MIT App inventor is intimidating, but it will allow for more flexibility and more ultimately more of an opportunity to develop a highly necessary skill. 
+Moving beyond the Scracth-like MIT App Inventor is intimidating, but it will allow for more flexibility and ultimately more of an opportunity to develop a highly demanded skill. 
 
 Installation for the Software Development Kit (SDK) will vary from machine, but is luckily bundled with easy installer.  See the [Resources] (https://github.com/TechConnects/androidifl#resources) from the main folder for instillation instructions.  NOTE: you may need to work with an IT professional from your school.    
 
@@ -26,4 +26,4 @@ For more information on Java, see there Java Basics for Android Parts [1] (http:
 
 Be sure to set realistic goals for your students.  Programming is difficult, but much can be accomplished with a little work.  
 
-Debugging code is a very real skill that professional developers have that includes attendtion to detail and an understanding of syntax.  Create a simple example that has students identify a problem with the function of an app, and debug the code to create a soltuion.  
+Debugging code is a very real skill that professional developers have that includes close attention to detail and an understanding of syntax.  Create a simple example that has students identify a problem with the function of an app, and debug the code to create a soltuion.  
