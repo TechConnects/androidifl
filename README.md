@@ -18,9 +18,9 @@ Learn about open-source development tools for the classroom applicable to a vari
 | [**App Development Workflows**] (http://developer.android.com/tools/workflow/index.html) |  5 - 10 min|
 | Source Control and using GitHub for curriculum | 10 min |
 | [**Integrated Development Environment**] (http://en.wikipedia.org/wiki/Integrated_development_environment) (IDE) | 5 - 10 min|
-| 1. [**Scratch**]  | 5 - 10 min|
-| 2. [**Pathways: MIT Android App Inventor**] | 5 - 10 min|
-| 3. [**Foundations: Eclipse IDE and Android SDK**] | 5 - 10 min |
+| 1. **Scratch**  | 5 - 10 min|
+| 2. **Pathways: MIT Android App Inventor** | 5 - 10 min|
+| 3. **Foundations: Eclipse IDE and Android SDK** | 5 - 10 min |
 | Questions and Discussion | 10 min |
 
 Building Apps
@@ -38,6 +38,12 @@ Resources
 ####Library Resources
 
 [Free Treehouse Account] (http://www.lfpl.org/treehouse/) (with valid library card and password)
+
+####Scratch
+
+[MIT Scratch] (http://scratch.mit.edu/) | [Cool projects from Hour of Code] (http://csedweek.org/learn)
+
+[Learn Scratch] (http://learnscratch.org/)
 
 ####MIT App Inventor
 
