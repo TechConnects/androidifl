@@ -12,15 +12,15 @@ Learn about open-source development tools for the classroom applicable to a vari
 
 |**Agenda Item**| Time 75 min |
 |:---------------|:-----------------:|
-| [**Computational Thinking**] (http://www.iste.org/docs/ct-documents/ct-teacher-resources_2ed-pdf.pdf?sfvrsn=2) from Computer Science Teachers Association (CSTA) | 10 - 15 min |
+| [**Computational Thinking**] (http://www.iste.org/docs/ct-documents/ct-teacher-resources_2ed-pdf.pdf?sfvrsn=2) from Computer Science Teachers Association (CSTA) | Extra |
 | Why Develop in the classroom?  While we're at it, why Android? [market share increase] (http://www.businessinsider.com/iphone-v-android-market-share-2014-5)| 5 - 10 min |
 |Creating Assessment Models | 5 - 10 min |
-| [**App Development Workflows**] (http://developer.android.com/tools/workflow/index.html) |  |
+| [**App Development Workflows**] (http://developer.android.com/tools/workflow/index.html) |  5 - 10 min|
 | Source Control and using GitHub for curriculum | 10 min |
-| [**Integrated Development Environment**] (http://en.wikipedia.org/wiki/Integrated_development_environment) (IDE) | |
-| Android Emulation | |
-| 1. Pathways: MIT Android App Inventor | |
-| 2. Foundations: Eclipse IDE and Android SDK | |
+| [**Integrated Development Environment**] (http://en.wikipedia.org/wiki/Integrated_development_environment) (IDE) | 5 - 10 min|
+| 1. [**Scratch**] (http://scratch.mit.edu/) | 5 - 10 min|
+| 2. Pathways: MIT Android App Inventor | 5 - 10 min|
+| 3. Foundations: Eclipse IDE and Android SDK | 5 - 10 min |
 | Questions and Discussion | 10 min |
 
 Building Apps
