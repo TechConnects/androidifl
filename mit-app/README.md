@@ -1,4 +1,4 @@
-Android Development Pathways
+For Absolute Beginners
 ===============
 
 ####Introduction
