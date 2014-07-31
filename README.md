@@ -26,7 +26,7 @@ Learn about open-source development tools for the classroom applicable to a vari
 Building Apps
 =====
 
-####1. [Starting Thinking Like  Coder with Scratch] (https://github.com/TechConnects/androidifl/tree/master/scratch)
+####1. [Start Thinking Like a Coder with Scratch] (https://github.com/TechConnects/androidifl/tree/master/scratch)
 
 ####2. [Building an App with MIT App Inventor] (https://github.com/TechConnects/androidifl/tree/master/mit-app)
 
